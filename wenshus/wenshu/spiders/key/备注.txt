@@ -1,0 +1,2 @@
+getKey() 需要加vjkl5传参；
+var cookie = getCookie('vjkl5'); 改成直接 var cookie = vjkl5;
